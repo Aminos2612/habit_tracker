@@ -2,7 +2,7 @@ package src.java;
 public class ConditionsExample {
     public static void main(String[] args) {
         // Declare a variable representing a user's age
-        int age = 10;
+        int age = 18;
         // Check if age is 18 or more
         if (age >= 18) {
             // This block runs if the condition is true
